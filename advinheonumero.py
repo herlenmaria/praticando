@@ -13,4 +13,4 @@ while computador != jogador: #while not acertou:
         if jogador > computador:
             print('\033[33mMenos... Tenta novamente!\033[m')
         elif computador > jogador:
-            print('\033[33mMais...Tenta novamente!\033[m')
+            print('\033[34mMais...Tenta novamente!\033[m')
